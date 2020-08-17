@@ -1,0 +1,158 @@
+@media (max-width: 928px) {
+  .logo {
+    margin: 0;
+    padding: 4px;
+    font-size: 1.4rem;
+  }
+  .board {
+    padding: 0rem;
+  }
+  .board .list .ancla {
+    margin: 0px 5px;
+    padding: 7px 5px;
+    font-size: 17px;
+  }
+  .about {
+    flex-direction: column;
+  }
+  .about .contentBx,
+  .about .imgBx {
+    min-width: 100%;
+    width: 100%;
+    text-align: center;
+    padding-right: 0px;
+  }
+  .about .imgBx {
+    min-height: 250px;
+  }
+  .button {
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 612px) {
+  .list {
+    display: none;
+  }
+  .header .toogle img {
+    display: block;
+    position: fixed;
+    margin-top: 45px;
+    right: 33px;
+    top: 20px;
+    z-index: 3;
+    transition: 0.3s ease all;
+  }
+  .board {
+    position: fixed;
+    font-size: 1.3rem;
+    background: rgba(17, 17, 17, 0.877);
+    left: 0;
+    top: -24px;
+    width: 100%;
+    height: 104vh;
+    transform: translateX(-100%);
+    transition: 0.3s ease all;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    transform: translateX(-100%);
+    transition: 0.3s ease all;
+    border-radius: 0px;
+    margin: 0px;
+  }
+  .board2 {
+    transform: translate(0%);
+    z-index: 6;
+    width: 102vw;
+  }
+  .board:hover {
+    z-index: 1000;
+    width: 101%;
+  }
+  .board .list {
+    display: contents;
+    text-align: center;
+  }
+  .board .list .ancla {
+    color: aliceblue;
+  }
+  .logo {
+    color: #fff;
+    font-size: 3rem;
+  }
+  .text_principal {
+    font-size: 3rem;
+  }
+  .text_second {
+    font-size: 2rem;
+  }
+  .parraf {
+    font-size: 1rem;
+  }
+  .buttton {
+    font-size: 0.8rem;
+  }
+  .header::before {
+    height: 10rem;
+  }
+  /* ----------card */
+  .content {
+    padding: 1rem;
+  }
+  .content .card .contentBx h2 {
+    font-size: 1.4rem;
+  }
+  .content .card .contentBx p {
+    font-size: 1rem;
+  }
+  /* ----------Guitar */
+  .titleText {
+    font-size: 1.8em;
+  }
+  .text {
+    font-size: 1rem;
+  }
+  /* ----------Swipper */
+  .titleSwipper {
+    font-size: 1.5em;
+  }
+  /* ----------Footer */
+  .footer {
+    padding: 1rem;
+  }
+  .footer .social li a img {
+    max-width: 30px;
+  }
+}
+@media (max-width: 426px) {
+  .text_principal {
+    font-size: 2.2rem;
+  }
+  .text_second {
+    font-size: 1.4rem;
+  }
+  .parraf {
+    font-size: 0.9rem;
+  }
+  .buttton {
+    font-size: 0.6rem;
+  }
+  .header::before {
+    height: 10rem;
+  }
+  /* ----------card */
+  .content {
+    padding: 0.5rem;
+  }
+  /* ----------Guitar */
+  .about {
+    padding: 1rem;
+  }
+  .titleText {
+    font-size: 1.2em;
+  }
+  .text {
+    font-size: 0.9rem;
+  }
+}
