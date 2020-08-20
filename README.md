@@ -11,14 +11,14 @@ Displays variety of instruments with their respective image.
 <details>
     <summary>🖥 Desktop version</summary>
 
-![](./assets/Musix.mp4)
+![](./assets/Musix.png)
 
 </details>
 
 <details>
     <summary>📱 Mobile version</summary>
 
-![](./design/mobile-design.png)
+![](./assets/Mobile.png)
 
 </details>
 
