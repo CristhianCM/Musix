@@ -8,8 +8,19 @@ Displays variety of instruments with their respective image.
 
 ### 🎨 Preview
 
-🖥 Desktop version
-📱 Mobile version
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](./assets/Musix.mp4)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+
+![](./design/mobile-design.png)
+
+</details>
 
 ### 👩🏻‍💻 Technologies
 
