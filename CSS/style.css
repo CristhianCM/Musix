@@ -8,8 +8,8 @@
 
 .header {
   height: 100vh;
-  background-image: -webkit-gradient(linear, left top, right top, from(#e7305b4f)), url(/assets/Web.jpg);
-  background-image: linear-gradient(to right, #e7305b4f 0% #e2979c3b 100%), url(/assets/Web.jpg);
+  background-image: -webkit-gradient(linear, left top, right top, from(#e7305b4f)), url(assets/Web.jpg);
+  background-image: linear-gradient(to right, #e7305b4f 0% #e2979c3b 100%), url(assets/Web.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
