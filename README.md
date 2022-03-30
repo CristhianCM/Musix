@@ -26,5 +26,8 @@ Displays variety of instruments with their respective image.
 
 1. HTML
 2. CSS
-4. JS
-5. Swiper
+3. JS
+4. Swiper
+5. SASS
+
+![Image text]()
