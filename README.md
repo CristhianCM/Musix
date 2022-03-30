@@ -28,6 +28,6 @@ Displays variety of instruments with their respective image.
 2. CSS
 3. JS
 4. Swiper
-5. SASS
+5. SCSS
 
 ![Image text](https://github.com/CristhianCM/Musix/blob/main/assets/Photo_and_Realme/Musix_Finish.png)
