@@ -30,4 +30,8 @@ Displays variety of instruments with their respective image.
 4. Swiper
 5. SCSS
 
+### 👌 Open page
+
+Visit [GitHub_Page_Musix](https://cristhiancm.github.io/Musix/)
+
 ![Image text](https://github.com/CristhianCM/Musix/blob/main/assets/Photo_and_Realme/Musix_Finish.png)
