@@ -4,6 +4,9 @@
     padding: 4px;
     font-size: 1.4rem;
   }
+  .header::before {
+    bottom: -3px;
+  }
   .board {
     padding: 0rem;
   }
@@ -42,6 +45,7 @@
     z-index: 3;
     transition: 0.3s ease all;
   }
+
   .board {
     position: fixed;
     font-size: 1.3rem;

@@ -26,5 +26,12 @@ Displays variety of instruments with their respective image.
 
 1. HTML
 2. CSS
-4. JS
-5. Swiper
+3. JS
+4. Swiper
+5. SCSS
+
+### 👌 Open page
+
+Visit [GitHub_Page_Musix](https://cristhiancm.github.io/Musix/)
+
+![Image text](https://github.com/CristhianCM/Musix/blob/main/assets/Photo_and_Realme/Musix_Finish.png)
